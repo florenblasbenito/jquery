@@ -1,5 +1,5 @@
-$("#caja2").click(function(){
+$("#caja2").clik(function(){
 
-	$(this).attr("juan","cero");
+
 
 })
